@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Atomix Arena</title>
+</head>
+<body style="text-align:center; font-family:Arial; background:#0f172a; color:white;">
+
+  <h1>⚛ Atomix Arena ⚛</h1>
+  <p>Welcome to the Chemistry Battle Game!</p>
+
+  <button onclick="startGame()">Start Game</button>
+
+  <script>
+    function startGame() {
+      alert("Welcome to Atomix Arena!");
+    }
+  </script>
+
+</body>
+</html>
